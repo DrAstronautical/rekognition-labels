@@ -89,6 +89,18 @@ https://github.com/DrAstronautical/rekognition-labels/blob/main/demo.mp4
 
 ---
 
+## 🧠 What I Learned
+
+   - How to set up and authenticate AWS credentials locally
+
+   - How to use the boto3 library to interact with AWS Rekognition
+
+   - How to structure a Python CLI using argparse
+
+   - How to fix issues with .aws not being in User file
+
+   - How to push a project to GitHub and write a professional README
+
 ## 📄 License
 
 MIT License. Feel free to use, modify, and distribute this project.
