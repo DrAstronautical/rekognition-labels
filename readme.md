@@ -83,6 +83,12 @@ Run the CLI tool with an image path and optional parameters:
 
 ---
 
+## 📽️ Demo
+
+https://github.com/DrAstronautical/rekognition-labels/blob/main/demo.mp4
+
+---
+
 ## 📄 License
 
 MIT License. Feel free to use, modify, and distribute this project.
